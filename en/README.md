@@ -23,9 +23,9 @@ This module is for creating/generating new XOOPS modules
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/modulebuilder-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/XXX-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/XXX-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/modulebuilder-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbook.io/modulebuilder-tutorial/) when the [main repository](https://github.com/XoopsDocs/modulebuilder-tutorial) changes.
 
-Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
+Editing the book can be done by forking the tutorial from [GitHub](https://github.com/XoopsDocs/modulebuilder-tutorial) and updating the markdown files with a text editor, 
 
 # Table of Content
 
@@ -36,9 +36,9 @@ Editing the book can be done either by updating the markdown files with a text e
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* [DB Tables](book/8db.md) 
-* [UML Classes](book/8uml.md) 
-* [Module Credits](book/9credits.md)
+* [Miscellaneous](book/80other.md)
+* [DB Tables](book/81db.md) 
+* [UML Classes](book/82uml.md) 
 * [Module Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
