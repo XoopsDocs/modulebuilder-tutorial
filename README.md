@@ -36,9 +36,9 @@ Editing the book can be done either by updating the markdown files with a text e
 * [The User Side](en/book/5userside.md)
 * [Blocks](en/book/6blocks.md)
 * [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/80other.md) 
-* [DB Tables](en/book/8db.md) 
-* [UML Classes](en/book/8uml.md) 
+* [Miscellaneous](en/book/80other.md)
+* [DB Tables](en/book/81db.md) 
+* [UML Classes](en/book/82uml.md) 
 * [Module Credits](en/book/9credits.md)
 * [About XOOPS CMS](en/book/10aboutxoops.md)
 
