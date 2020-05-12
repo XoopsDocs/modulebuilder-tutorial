@@ -2,19 +2,19 @@
 
 ![](.gitbook/assets/logoxoops.jpg)
 
-## Module Builder Deutsch
+## ModuleBuilder \(Deutsch\)
 
-#### for XOOPS 2.5.11
+für XOOPS 2.5.11
 
 ![](.gitbook/assets/logomodule.png)
 
-### User Manual
+### Benutzerhandbuch
 
 © 2020 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
-### Module Purpose
+### Modulzweck
 
-This module is for creating/generating new XOOPS modules
+Dieses Modul dient zum Erstellen / Generieren neuer XOOPS-Module
 
 ![](.gitbook/assets/image001.png)
 
