@@ -15,6 +15,7 @@
 This module is for creating/generating new XOOPS modules
 
 ![](assets/image001.png)
+
 *Figure 1: Main view of the ModuleBuilder (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
