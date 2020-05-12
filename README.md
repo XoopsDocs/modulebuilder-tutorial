@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/logoxoops.jpg)
 
-## Module Builder
+## Module Builder Deutsch
 
 #### for XOOPS 2.5.11
 
