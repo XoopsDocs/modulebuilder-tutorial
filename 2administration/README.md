@@ -4,6 +4,14 @@
 
 _Figure 1: Main view of the ModuleBuilder \(Admin side\)_
 
+## 1. Menu
+
+There are seven \(7\) menu options on top. These can be seen in the graphic below above the Module’s Administration tabs. The menu options available are described in the table below.
+
+## 2. Dashboard
+
+On the dashboard you get a short overview about the functionalities and the content of the module.
+
 The administration menu contains following tabs:
 
 * [Dashbord](dashbord.md)
