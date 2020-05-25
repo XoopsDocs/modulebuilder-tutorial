@@ -4,6 +4,20 @@
 
 _Figure 1: Main view of the ModuleBuilder \(Admin side\)_
 
+The administration menu contains following tabs:
+
+* [Dashbord](dashbord.md)
+* [Settings](settings.md)
+* [Modules](modules.md)
+* [Tables](tables.md)
+* [Fields](fields.md)
+* [More Files](morefiles.md)
+* [Building](building.md)
+* [Feedback](feedback.md)
+* [Migrate](migrate.md)
+* [About](about.md)
+* [Help](help.md) 
+
 ## Dashboard
 
 ![](../.gitbook/assets/2dashboard.jpg)
