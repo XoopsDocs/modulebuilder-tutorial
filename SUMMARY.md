@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Install/Uninstall](1install.md)
-* [Administration Menu](2administration.md)
+* [Administration Menu](2administration/README.md)
+  * [Settings](2administration/settings.md)
 * [Preferences](3preferences.md)
 * [Operating Instructions](4operations.md)
 * [The User Side](5userside.md)

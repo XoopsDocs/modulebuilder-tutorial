@@ -33,7 +33,7 @@ Editing the book can be done either by updating the markdown files with a text e
 ## Table of Content
 
 * [Install/Uninstall](1install.md)
-* [Administration Menu](2administration.md)
+* [Administration Menu](2administration/)
 * [Preferences](3preferences.md)
 * [Operating Instructions](4operations.md)
 * [The User Side](5userside.md)
